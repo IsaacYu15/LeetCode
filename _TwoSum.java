@@ -1,4 +1,4 @@
-class TwoSum {
+class _TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
 

@@ -1,4 +1,5 @@
-// 80/95 test cases. Look into stacks
+// 80/95 test cases. 
+//LOOK INTO STACKS
 
 public class ValidParentheses {
     public boolean isValid(String s) {
